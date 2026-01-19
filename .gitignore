@@ -49,3 +49,6 @@ Thumbs.db
 *.pkl
 *.joblib
 *.model
+
+test_preprocessed.csv
+train_preprocessed.csv
